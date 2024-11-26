@@ -1,1 +1,2 @@
-# Pathelogical-Image-Classification
+# Pathelogical Image Classification
+ Major_Project
